@@ -17,3 +17,4 @@ HOW-TO:
 Move to the src/ folder, and then run "make"
 The engine will be built, and then Qualker.emc will be the executable (game) binary.
 If any problems, please report back. And also check if you have all the required development libraries.
+![Screenshot](https://user-images.githubusercontent.com/97528297/149072903-6ca1f07f-3581-4c95-9565-13864425667f.png)
