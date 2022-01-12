@@ -1,6 +1,7 @@
 # Codename Runtime (cname_runtime) a testing game engine
 
 Project was made in 2015/2016. Old project of mine.
+It is just a testing ground for different 3d stuff.
 
 Project is an amateur hobby project of mine.
 The project is made because I want to create a game that runs on low-powered computers, this has a target as the Beaglebone Black rev C.
